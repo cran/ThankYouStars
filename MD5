@@ -1,0 +1,14 @@
+f664eb2a90c5b6675b8782aec5dcafbc *DESCRIPTION
+2c1ae07b755c18b61977ecccad55d15b *LICENSE
+ee20d3e734d1e1db92442beb5fe65167 *NAMESPACE
+08b16d0e84bc1599139baaa8bd731cbb *NEWS.md
+ff4dd3427247841ad8e6bc99739fb4eb *R/github.R
+6966755a7433d7e9233c11df77dc5fce *R/package.R
+27b9f403a9181eae7e2643afb7fbabaa *R/thank_you_stars.R
+75298e35ddb343140e7e3f827bfb6a81 *R/token.R
+c5d1904560029d2f51adba18e91cd47d *README.md
+2a9597b85dcfa5dfe0d56e935c1156ba *man/ThankYouStars.Rd
+e7a476c09221e3afea4dfbf627657b78 *man/thank_you_stars.Rd
+5f520460ab2dc5247da916dc13740b5b *tests/testthat.R
+9e3c9998f0985a633f1b6770956cd029 *tests/testthat/put_to_not_exist_repo.rds
+2b6be64eac8abddc46a81da0df9eb9d7 *tests/testthat/test-starring.R
